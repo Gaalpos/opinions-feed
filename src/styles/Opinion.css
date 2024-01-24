@@ -1,0 +1,43 @@
+.container-opinion {
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(74, 74, 74);
+    box-shadow: 0px 13px 30x 1px rgb(0, 128, 255 / 10%);
+
+}
+
+.image-opinion {
+    height: 100%;
+    width: auto;
+
+}
+
+.container-text-opinion {
+    text-align: center;
+    padding: 40px;
+    width: 100%;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+
+}
+
+.name-opinion {
+    font-size: 1.5rem;
+
+}
+
+.job-opinion {
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.text-opinion {
+    font-size: 1.2rem;
+    /* text-align: justify; */
+}
