@@ -1,6 +1,6 @@
 # React Opinions Feed
 
-A small React app that recreates the opinions feed on https://www.freecodecamp.org/ following [this course](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=9344s) .
+A small React frontend that recreates the opinions feed on https://www.freecodecamp.org/ following [this course](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=9344s) .
 
 Run the app:
 
